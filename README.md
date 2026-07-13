@@ -70,6 +70,9 @@ BookStore-API-Testing/
 ├── README.md
 └── screenshots/
 ```
+## Test Execution Evidence
+
+Screenshots of executed API requests and test results are available in the screenshots folder.
 
 ## How to Run
 

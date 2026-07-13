@@ -72,6 +72,9 @@ BookStore-API-Testing/
 ```
 ## Test Execution Evidence
 
+The Postman collection was executed using Collection Runner with 10 iterations to validate the API test cases and ensure consistent results. Screenshots of the execution results are available in the `screenshots` folder.
+## Test Execution Evidence
+
 Screenshots of executed API requests and test results are available in the screenshots folder.
 
 ## How to Run

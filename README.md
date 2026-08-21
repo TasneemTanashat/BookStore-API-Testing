@@ -70,6 +70,23 @@ BookStore-API-Testing/
 ├── README.md
 └── screenshots/
 ```
+## Test Findings
+
+### DELETE Functionality
+
+The DELETE API endpoint was tested successfully using Postman, and the selected book was successfully deleted from the backend.
+
+However, during frontend verification, a defect was identified with the **Delete button**. The button does not perform the expected deletion action from the user interface.
+
+**Result:**
+
+* Backend DELETE API: ✅ Passed
+* Frontend Delete Button: ❌ Failed
+* Issue Location: Frontend
+* API Status: Working as expected
+
+This indicates that the issue is related to the frontend implementation or its integration with the DELETE API, rather than the backend endpoint itself.
+
 ## Test Execution Evidence
 
 The Postman collection was executed using Collection Runner with 10 iterations to validate the API test cases and ensure consistent results. Screenshots of the execution results are available in the `screenshots` folder.

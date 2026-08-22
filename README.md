@@ -8,7 +8,8 @@ This project demonstrates API testing using Postman for a BookStore REST API. It
 
 **Website:** [API Library System](https://asaqa988.github.io/Api-Library-System-/index.html)
 
-This website was used as the frontend application under test for validating the BookStore API functionality.
+This website was used as the frontend application under test for validating the BookStore API functionality.The API endpoints were identified by inspecting the frontend application's network requests using the browser's Developer Tools, then tested independently using Postman.
+
 
 ## Tools & Technologies
 
